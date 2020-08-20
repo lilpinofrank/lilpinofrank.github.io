@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Franks page
 
 You can use the [editor on GitHub](https://github.com/lilpinofrank/lilpinofrank.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
